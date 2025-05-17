@@ -1,5 +1,7 @@
 ---
-aliases: [The Lich's Labyrinth - Player Reference Guide]
+aliases:
+  - The Lich's Labyrinth - Player Reference Guide
+title: Dungeon Buddy Notes
 ---
 
 ![[Nice Try buddy let kyle know you found this note.png]]
