@@ -34,10 +34,10 @@ const config: QuartzConfig = {
           gray: "#CECDC3",       // base-200
           darkgray: "#6F6E69",   // base-600
           dark: "#100F0F",       // black
-          secondary: "#4385BE",  // blue
-          tertiary: "#879A39",   // green
+          secondary: "#4F3685",  // purple
+          tertiary: "#B74583",   // Magenta
           highlight: "rgba(215, 131, 127, 0.15)", // red with opacity
-          textHighlight: "#DA702C88", // orange with opacity
+          textHighlight: "#4F368533", // orange with opacity
         },
         darkMode: {
           light: "#100F0F",      // black
@@ -45,10 +45,10 @@ const config: QuartzConfig = {
           gray: "#282726",       // base-900
           darkgray: "#CECDC3",   // base-200
           dark: "#FFFCF0",       // paper
-          secondary: "#4385BE",  // blue
-          tertiary: "#879A39",   // green
+          secondary: "#4F3685",  // purple
+          tertiary: "#B74583",   // Magenta
           highlight: "rgba(215, 131, 127, 0.15)", // red with opacity
-          textHighlight: "#DA702C88", // orange with opacity
+          textHighlight: "#4F368533", // orange with opacity
         },
       },
     },
