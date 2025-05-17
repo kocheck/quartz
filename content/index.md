@@ -1,13 +1,8 @@
 ---
 title: Welcome to My D&D Universe
 ---
-# Welcome to My D&D Universe
 
-## A Digital Compendium of Adventures
-
----
-
-Welcome to my personal Dungeons & Dragons space! This site serves as my digital repository for campaign notes, world-building elements, and all the creative chaos that comes with being both a player and Dungeon Master.
+My personal table top adventure space... This site serves as my digital repository for campaign notes, world-building elements, and all the creative chaos that comes with being both a player and Dungeon Master.
 
 ## What You'll Find Here
 
