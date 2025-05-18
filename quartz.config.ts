@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           gray: "#282726",       // base-900
           darkgray: "#CECDC3",   // base-200
           dark: "#FFFCF0",       // paper
-          secondary: "#4F3685",  // purple
+          secondary: "#C4B9E0",  // purple
           tertiary: "#B74583",   // Magenta
           highlight: "rgba(215, 131, 127, 0.15)", // red with opacity
           textHighlight: "#4F368533", // orange with opacity
