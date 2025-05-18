@@ -1,10 +1,10 @@
 ---
-title: The Sanctuary Survival Guide (Or How to Not Get Kicked Out of Your Only Safe Haven)
+title: The Sanctuary Survival Guide
 aliases:
   - Sanctuary City Guide
 ---
 
-# The Sanctuary Survival Guide (Or How to Not Get Kicked Out of Your Only Safe Haven)
+# Or How to Not Get Kicked Out of Your Only Safe Haven
 
 ## Welcome to Your New Home (Whether You Like It or Not)
 
