@@ -54,7 +54,7 @@ The good news? You're providing renewable energy! The bad news? Everything else 
 4. **Train with Experts**: Several masters in Sanctuary offer specialized training for a fee.
 5. **Don't Die**: Self-explanatory, but surprisingly difficult.
 
-## [[Sanctuary]]: Your New Forever Home
+## [[content/The Crystal Heart/Places/Sanctuary/index|Sanctuary City]]: Your New Forever Home
 
 The Village occupies a pocket dimension approximately one mile in diameter with an impenetrable magical fog at its boundaries. At its center stands the Sanctuary Gate, connecting to every fifth level of the Labyrinth.
 [[Sanctuary.jpg|View Sanctuary]]

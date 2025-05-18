@@ -18,14 +18,14 @@ This digital realm is organized to help me:
 
 ## Current Campaigns
 
-| Campaign              | Status         | Completion | Role |
-| :-------------------- | :------------- | :--------- | :--- |
-| [[The Crystal Heart Campaign]] | Active         | 100%       | DM   |
-| [[Day Breaker]]       | In Development | 30%        | DM   |
+| Campaign                                               | Status         | Completion | Role |
+| :----------------------------------------------------- | :------------- | :--------- | :--- |
+| [[content/The Crystal Heart/index\|The Crystal Heart]] | Active         | 100%       | DM   |
+| [[Day Breaker]]                                        | In Development | 30%        | DM   |
 
 ### The Crystal Heart
 
-I'm currently running [[The Crystal Heart Campaign]], a dark fantasy campaign set in a mysterious world where players find themselves trapped in a vast labyrinth created by the enigmatic [[Archmage Vexilar]]. At the center of this world lies the Crystal Heart - a massive crystalline structure that serves as both a power source and a reality anchor for the Village of Sanctuary, the only safe haven in this dangerous realm. The campaign explores themes of memory manipulation, time distortion, and the nature of reality itself, as players navigate political intrigue between various factions while uncovering the true purpose of Vexilar's grand experiment. Follow the link to explore session notes, world details, and the unfolding mysteries of this unique setting.
+I'm currently running [[content/The Crystal Heart/index|The Crystal Heart]], a dark fantasy campaign set in a mysterious world where players find themselves trapped in a vast labyrinth created by the enigmatic [[Archmage Vexilar]]. At the center of this world lies the Crystal Heart - a massive crystalline structure that serves as both a power source and a reality anchor for the Village of Sanctuary, the only safe haven in this dangerous realm. The campaign explores themes of memory manipulation, time distortion, and the nature of reality itself, as players navigate political intrigue between various factions while uncovering the true purpose of Vexilar's grand experiment. Follow the link to explore session notes, world details, and the unfolding mysteries of this unique setting.
 
 ### Day Breaker
 
