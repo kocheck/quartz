@@ -1,10 +1,8 @@
 ---
-title: The Sanctuary Survival Guide
-aliases:
-  - Sanctuary City Guide
+aliases: [Sanctuary City Guide]
 ---
 
-# Or How to Not Get Kicked Out of Your Only Safe Haven
+# The Sanctuary Survival Guide (Or How to Not Get Kicked Out of Your Only Safe Haven)
 
 ## Welcome to Your New Home (Whether You Like It or Not)
 
@@ -13,6 +11,8 @@ Congratulations on finding the only place in this entire pocket dimension where 
 ![[Sanctuary.jpg]]
 
 ## The Basics (*Because Apparently Some People Need This Explained*)
+
+See [[Sanctuary Basics]] for more information about the city's nature and time mechanics.
 
 Sanctuary is a one-mile diameter pocket dimension that exists between the levels of the Labyrinth. It's protected by an impenetrable magical fog (don't test this, we've lost enough idiots that way), and it's the only place where you can sleep without one eye open. Well, one eye open is still recommended, but that's more about your fellow residents than the environment.
 
@@ -34,6 +34,8 @@ Remember how time works differently in the Labyrinth? Well, Sanctuary has its ow
 
 *See the attached map for a detailed layout of Sanctuary. Yes, we know it's not to scale. No, we don't care. The important landmarks are there, and that's what matters.*
 
+See [[Sanctuary Districts]] for detailed information about each district and its features.
+
 The city is organized in a roughly circular pattern, with the Sanctuary Gate at its center. The main districts are:
 
 - **The Gate District:** Home to the Sanctuary Gate and the Vanguard Hall. Where all the important people pretend to be busy.
@@ -52,21 +54,26 @@ The city is organized in a roughly circular pattern, with the Sanctuary Gate at 
 
 ### Essential Services (Or How to Not Die of Stupidity)
 
-- **The First Step:** Keeper Bram's hostel for new arrivals. First week is free, after that it's pay up or sleep in the streets. And trust us, you don't want to sleep in the streets.
-
-- **The Surplus Sorcery Emporium:** Magnus's magic shop. Items may explode, transform you, or occasionally work as advertised. No refunds, no complaints, no exceptions, free towels tho for some reason.
-
-- **Curious Curios:** Grundle's artifact shop. If you found something weird in the Labyrinth and don't know what it does, Grundle will buy it (for much less than it's worth, but hey, better than dying from it).
-
-- **Elara's Hospice:** Medical care when you inevitably get stabbed, poisoned, cursed, or all three. Donation-based, but don't be cheap if you want both arms healed.
-
-- **The Vanguard Hall:** Captain Elowen's expedition headquarters. Register your adventuring party here to receive minimal benefits and maximum bureaucracy.
-
-- **The Archives:** Elder Moira's historical repository. Learn from other people's fatal mistakes instead of making your own!
-
-- **Maven's Grove:** Food and plants and stuff. Surprisingly important when you're trapped in an extradimensional prison.
+See [[Sanctuary Services]] for detailed information about:
+- [[The First Step]]
+- [[The Surplus Sorcery Emporium]]
+- [[The Bard Sheets]]
+- [[The Vanguard Hall]]
 
 ### Important People (Who Will Judge Your Life Choices)
+
+See [[Sanctuary NPCs]] for detailed information about the city's notable residents.
+
+- **Keeper Brom:** Runs The First Step. Provides orientation for new arrivals and helps them get settled. Known for rarely leaving The First Step facility.
+  - *Recent Encounter*: Gave you the welcome orientation and introduced you to your new reality with reassuring lies about safety
+
+- **Magnus:** Red tiefling proprietor of the Surplus Sorcery Emporium. Wears gorgeous purple robes. Known for his sales tactics and questionable business practices.
+
+- **Quartermaster Thorne:** Dwarf woman who runs the Vanguard Hall's equipment and supplies. Known for her no-nonsense attitude and axe polishing.
+  - *Status*: Haven't met yet, but handles equipment for registered adventurers
+
+- **Larry:** A resident at The First Step who lost many memories from not getting a memory vessel early enough. Serves as a cautionary tale for new arrivals.
+  - *Recent Sighting*: Used as your orientation's primary example of "why memory vessels aren't optional"
 
 - **Thorne Ironshackle:** Grumpy dwarf who runs the Council of Elders. Has seen too many adventurers die to be impressed by your shiny new sword.
 
@@ -80,6 +87,8 @@ The city is organized in a roughly circular pattern, with the Sanctuary Gate at 
 
 ## Factions and Politics (Because Even in a Pocket Dimension, People Can't Get Along)
 
+See [[Sanctuary Factions]] for detailed information about the various groups and their goals.
+
 - **The Council of Elders:** Old people who want everyone to stop trying to escape and just accept their fate.
 
 - **The Expeditionary Guild:** Adventurers who explore the Labyrinth, often getting themselves killed in exciting new ways.
@@ -88,7 +97,9 @@ The city is organized in a roughly circular pattern, with the Sanctuary Gate at 
 
 - **The Arcanum Collective:** Scholars studying the Labyrinth's magic who need adventurers to gather research materials (and definitely won't cry if you die doing it).
 
-- **The Liberation Front:** Radicals who want to destroy Vexilar and escape. Not technically outlawed, but don't mention them around the guards.
+- **The Liberation Front:** Investigating tampered memory vessels. Claims Vexar faithful are stealing memories. Operates in secret and recruits trustworthy individuals.
+
+- **The Archives:** Research organization focused on understanding the labyrinth's purpose and seeking alternative escape methods. Particularly interested in why the last few levels have become impassable.
 
 ## How to Not Get Kicked Out (Because You Have Nowhere Else to Go)
 
